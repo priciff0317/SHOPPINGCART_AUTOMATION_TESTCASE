@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>homePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5af821e1-4695-433e-922a-95a37c666c15</testCaseGuid>
+   <variable>
+      <defaultValue>'2681934577004'</defaultValue>
+      <description></description>
+      <id>f2323ec0-c3d7-4f91-8ee2-77b6b94bbb13</id>
+      <masked>false</masked>
+      <name>varA</name>
+   </variable>
+   <variable>
+      <defaultValue>'9789863126492'</defaultValue>
+      <description></description>
+      <id>0cf0d140-263a-4ba7-b842-ebaa414a5b44</id>
+      <masked>false</masked>
+      <name>varB</name>
+   </variable>
+   <variable>
+      <defaultValue>'9863126497'</defaultValue>
+      <description></description>
+      <id>9059424b-c4cb-42f9-85a8-15950c2fe7c5</id>
+      <masked>false</masked>
+      <name>varC</name>
+   </variable>
+   <variable>
+      <defaultValue>'草野あけみ'</defaultValue>
+      <description></description>
+      <id>a650a0d0-51dc-49fa-996f-d24034d59517</id>
+      <masked>false</masked>
+      <name>varD</name>
+   </variable>
+   <variable>
+      <defaultValue>'旗標科技股份有限公司'</defaultValue>
+      <description></description>
+      <id>daf5c738-8d5a-444b-a396-17ddeed233df</id>
+      <masked>false</masked>
+      <name>varE</name>
+   </variable>
+   <variable>
+      <defaultValue>'HTML5．CSS3最強圖解實戰講座 (第2版)'</defaultValue>
+      <description></description>
+      <id>2f292dd0-e5b4-4269-a708-589f53b7cf0d</id>
+      <masked>false</masked>
+      <name>varF</name>
+   </variable>
+</TestCaseEntity>

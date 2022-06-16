@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>信用卡一次付清</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02df1c32-6eef-4033-b68d-6ae140d7280f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7ebbb63-92d8-4d33-b5ef-693ca14dfdb3</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
